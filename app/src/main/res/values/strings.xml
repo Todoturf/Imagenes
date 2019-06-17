@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Imagenes</string>
+    <string name="txtImagenes">Imágenes</string>
+    <string name="txtCamara">Cámara</string>
+    <string name="txtGaleria">Galería</string>
+    <string name="btnSiguiente">Siguiente</string>
+    <string name="btnMostrar">Mostrar</string>
+</resources>
